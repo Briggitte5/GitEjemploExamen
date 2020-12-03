@@ -1,6 +1,6 @@
 # GitEjemploExamen
 Briggit@Briggitte MINGW64 ~/Desktop
-**$ git clone https://github.com/Briggitte5/GitEjemploExamen.git
+$ git clone https://github.com/Briggitte5/GitEjemploExamen.git
 Cloning into 'GitEjemploExamen'...
 remote: Enumerating objects: 3, done.
 remote: Counting objects: 100% (3/3), done.
